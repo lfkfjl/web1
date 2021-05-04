@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>엄마의 생신을 축하합니다</title>
+	<meta charset="utf-8">
+	<style>
+		h1{
+			text-align:center;
+			color:green;
+			border-bottom:5px solid purple;
+		}
+		h2{
+			color:blue;
+		}
+		p{
+			color:purple;
+		}
+	</style>
+</head>
+<body>
+	<h1>생신 축하드립니다!!</h1>
+	<h2>사랑하는 엄마에게</h2>
+	<p> 엄마 49번째 생신을 진심으로 축하합니다. 우리 무준이형이 철이 안들어서 큰일네요ㅎㅎ.</p> <p>나는 엄마가 우리 엄마인게 너무 자랑스럽고 너무 좋아 엄마도 나를 그렇게 생각할거라고 생각해.</p> <p>맨날 나이 많이 먹었다고하는데 요즘은 100세 시대잖아 아직 반도 안왔어!!</p><p>이제는 음력 말고 양력으로 생일로 합시다 이제 엄마 생일은 3우러 24일 땅!땅!땅!</p><p>그리고, 우리 엄마 요리진짜ㅏㅏ 잘하고 맛있게 하고 건강한 음식 차려주셔서 감사합니다.</p><p>그리고, 건강한게 제일 중요하니깐 아프면 병원 꼭 가고 항상 건강하길~~~!!!</p><p>우리 꼭 살빼자 화이팅</p>
+	<h2>엄마가 사랑하는 무원이가</h2>
+    <img src="img1.jpg" width=450>
+    <img src="img2.jpg" width=450>
+</html>
